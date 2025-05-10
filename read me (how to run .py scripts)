@@ -1,0 +1,10 @@
+To run .py scripts like the uppercase clipboard script:
+
+1.  **Save the code:** Save the Python code as a `.py` file (e.g., `uppercase_clipboard.py`).
+2.  **Open Terminal/Command Prompt:** Navigate to the directory where you saved the file.
+3.  **Execute:** Run the script using the command `python uppercase_clipboard.py`.
+4.  **Copy Text:** Now, any text you copy (Ctrl+C or Cmd+C) will automatically be converted to uppercase in your clipboard.
+5.  **Paste:** When you paste (Ctrl+V or Cmd+V), you'll get the uppercase version.
+6.  **Stop:** Press `Ctrl+C` in the terminal to stop the script.
+
+For continuous, background operation, you'll need to use OS-specific methods to run the script in the background (like `nohup` on Linux/macOS or Task Scheduler on Windows).
